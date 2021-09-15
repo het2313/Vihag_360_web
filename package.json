@@ -4,15 +4,17 @@
   "private": true,
   "dependencies": {
     "360-image-viewer": "^1.0.1",
+    "@material-ui/core": "^4.12.3",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "bootstrap": "^5.1.0",
     "pannellum-react": "^1.2.4",
     "react": "^17.0.2",
+    "react-bootstrap": "^2.0.0-beta.6",
     "react-burger-menu": "^3.0.6",
     "react-dom": "^17.0.2",
     "react-font": "^1.2.1",
-    "react-responsive-breakpoints": "^3.1.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
